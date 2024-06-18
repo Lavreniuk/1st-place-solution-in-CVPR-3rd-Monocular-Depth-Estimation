@@ -5,6 +5,10 @@ The objective was to evaluate monocular depth estimation on the challenging SYNS
 Different SOTA models for the Monocular Depth Estimation have been tested and the best results were obtained by our [EVP model](https://lavreniuk.github.io/EVP/) and [Depth-Anything model](https://github.com/LiheYoung/Depth-Anything).
 The best submission was received using Depth-Anything model probably due to very large dataset that it used for pretraining.
 
+## :rocket: News
+* **(June 18, 2024):** EVP++ solution has been presented on [CVPR 2024](https://jspenmar.github.io/MDEC), the [presentation file](https://github.com/Lavreniuk/1st-place-solution-in-CVPR-3rd-Monocular-Depth-Estimation/blob/main/CVPR2024-EVP%2B%2Bsolution-in-3nd-Monocular-Depth-Estimation-Challenge.pdf). :fire::fire:
+* **(April 27, 2024):** EVP++ solution has been published at CVPR 2024, here is [paper link](https://openaccess.thecvf.com/content/CVPR2024W/MDEC/papers/Spencer_The_Third_Monocular_Depth_Estimation_Challenge_CVPRW_2024_paper.pdf). :fire:
+
 ## Dataset
 [Kitti](https://github.com/jspenmar/monodepth_benchmark/blob/main/api/data/README.md#download), [Virtual KITTI 2](https://europe.naverlabs.com/research-old2/computer-vision/proxy-virtual-worlds/) and [DIODE](https://diode-dataset.org/) datasets have been downloaded and preprocessed for training the models.
 Set the correct paths in the vkitti_and_diode_preprocessing.py file, and for preprocessing vkitti and diode run:
