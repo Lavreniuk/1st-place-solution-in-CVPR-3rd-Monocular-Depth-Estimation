@@ -58,3 +58,16 @@ Final leaderboard results on the test data
 | 19| mdec            | 1       | 01/16/24           |           |118 | 13.7211 (17) | 7.7630 (18)  | 5.5645 (17) | 9.7169 (15) | 32.0420 (16)| 3.9712 (18)| 21.6256 (17)   |
 | 20| journey2japan   | 5       | 03/24/24           |           |132 | 11.3561 (20) | 6.6000 (21)  | 5.9075 (18) | 9.9886 (16) | 33.4098 (17)| 3.9832 (19)| 54.6467 (21)   |
 | 21| smhh            | 5       | 03/25/24           |           |133 | 11.0444 (21) | 7.0866 (20)  | 8.7645 (21) | 15.8637 (21)| 63.3160 (21)| 3.2209 (9) | 40.6098 (20)   |
+
+## Citation
+If you find our work useful in your research, please consider citing:
+```
+@InProceedings{Spencer_2024_CVPR,
+    author    = {Spencer, Jaime and Tosi, Fabio and Poggi, Matteo and Arora, Ripudaman Singh and Russell, Chris and Hadfield, Simon and Bowden, Richard and Zhou, Guangyuan and Li, Zhengxin and Rao, Qiang and Bao, Yiping and Liu, Xiao and Kim, Dohyeong and Kim, Jinseong and Kim, Myunghyun and Lavreniuk, Mykola and Li, Rui and Mao, Qing and Wu, Jiang and Zhu, Yu and Sun, Jinqiu and Zhang, Yanning and Patni, Suraj and Agarwal, Aradhye and Arora, Chetan and Sun, Pihai and Jiang, Kui and Wu, Gang and Liu, Jian and Liu, Xianming and Jiang, Junjun and Zhang, Xidan and Wei, Jianing and Wang, Fangjun and Tan, Zhiming and Wang, Jiabao and Luginov, Albert and Shahzad, Muhammad and Hosseini, Seyed and Trajcevski, Aleksander and Elder, James H.},
+    title     = {The Third Monocular Depth Estimation Challenge},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2024},
+    pages     = {1-14}
+}
+```
